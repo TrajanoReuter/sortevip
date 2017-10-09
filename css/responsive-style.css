@@ -1,0 +1,242 @@
+@media only screen and (max-width: 1186px){
+    .featured .container .accumulated p.price{
+        font-size:2em;
+    }
+}
+
+@media only screen and (max-width: 988px){
+    .blue-header .container .painel-dropdown{
+        height: 240px;
+    }
+    .games .item{
+        height: 400px;
+    }
+    .games .item .item-footer{
+        height: 150px;
+    }
+    .games .item .accumulated-item{
+        height: 400px;
+    }
+    footer img{
+        float: none;
+    }
+    .games .item .item-footer input{
+        text-align: center;
+    }
+    .featured .container .accumulated p.price{
+        font-size: 1.5em;
+    }
+    .lottery-games .container .lottery .item{
+        width: 33.33%;
+    }
+    .lottery-games .container .lottery{
+        height: 282px;
+    }
+    .lottery-games{
+        height: 348px;
+    }
+    .lottery-games .container .lottery .item.mega{
+        left: 0;
+        top: 0;
+    }
+    .lottery-games .container .lottery .item.quina{
+        left: 33.33%;
+        top: 0;
+    }
+    .lottery-games .container .lottery .item.facil{
+        top: 0;
+        left: 66.66%;
+    }
+    .lottery-games .container .lottery .item.time{
+        left: 0;
+        top: 94px;
+    }
+    .lottery-games .container .lottery .item.dupla{
+        left: 33.33%;
+        top: 94px;
+    }
+    .lottery-games .container .lottery .item.mania{
+        left: 66.66%;
+        top: 94px;
+    }
+    .lottery-games .container .lottery .item.loteca{
+        left: 0;
+        top: 188px;
+    }
+    .lottery-games .container .lottery .item.lotogol{
+        left: 33.33%;
+        top: 188px;
+    }
+    .lottery-games .container .lottery .item.federal{
+        left: 66.66%;
+        top: 188px;
+    }
+    .blue-header{
+        height:124px;
+    }
+    .blue-header .list-blue .item{
+        width: 33.3%;
+    }
+    .blue-header .list-blue .item:first-child{
+        left: 0;
+        top: 0;
+    }
+    .blue-header .list-blue .item:nth-child(2){
+        top: 0;
+        left: 33.3%;
+    }
+    .blue-header .list-blue .item:nth-child(3){
+        left: 66.6%;
+        top: 62px;
+    }
+    .blue-header .list-blue .item:nth-child(4){
+        top: 62px;
+        left: 0;
+    }
+    .blue-header .list-blue .item:nth-child(5){
+        top: 62px;
+        left: 33.3%;
+    }
+    .blue-header .list-blue .item:nth-child(6){
+        top: 0;
+        left: 66.6%;
+        width: 33.3%;
+    }
+    .blue-header .list-blue{
+        height: 124px;
+    }
+    .blue-header .container .painel-dropdown{
+        width: 32%;
+    }
+    section#my-games .games .item{
+        height: 340px;
+    }
+   section#my-games .games .item .item-footer{
+        height: 130px;
+    }
+}
+
+@media only screen and (max-width: 767px){
+    .featured .container .accumulated h1, .featured .container .accumulated p.accumulateds{
+        text-align: center;
+    }
+    .featured .container .accumulated p.price{
+        text-align: center;
+    }
+    .featured .container .accumulated p.draw{
+        text-align: center;
+    }
+    .featured .container .accumulated{
+        padding-top: 20px;
+        padding-bottom: 40px;
+    }
+    header{
+        height: 190px;
+    }
+    header img.logo{
+        margin-left: calc(50% - 112px);
+    }
+    .current-balance p{
+        font-size: 1.5em;
+        text-align: center;
+    }
+    footer{
+        text-align: center !important;
+    }
+    button.edit{
+        margin-bottom: 15px;
+    }
+    .already-won p{
+        float: none;
+    }
+}
+
+@media only screen and (max-width: 475px){
+    .blue-header, .blue-header .list-blue{
+        height: 186px;
+    }
+    .blue-header .list-blue .item{
+        width: 50%;
+    }
+    .blue-header .list-blue .item:first-child{
+        left: 0;
+        top: 0;
+    }
+    .blue-header .list-blue .item:nth-child(2){
+        top: 124px;
+        left: 50%;
+    }
+    .blue-header .list-blue .item:nth-child(3){
+        left: 0%;
+        top: 62px;
+    }
+    .blue-header .list-blue .item:nth-child(4){
+        top: 62px;
+        left: 50%;
+    }
+    .blue-header .list-blue .item:nth-child(5){
+        top: 124px;
+        left: 0;
+    }
+    .blue-header .list-blue .item:nth-child(6){
+        top: 0;
+        left: 50%;
+        width: 50%;
+    }
+    .blue-header .container .painel-dropdown{
+        width: 45%;
+    }
+
+    .lottery-games .container .lottery{
+        height: 470px;
+    }
+    .lottery-games{
+        height: 580px;
+    }
+    .lottery-games .container .lottery .item{
+        width: 50%;
+    }
+    .lottery-games .container .lottery .item.mega{
+        left: 0;
+        top: 0;
+    }
+    .lottery-games .container .lottery .item.quina{
+        left: 50%;
+        top: 0;
+    }
+    .lottery-games .container .lottery .item.facil{
+        top: 94px;
+        left: 0;
+    }
+    .lottery-games .container .lottery .item.time{
+        left: 50%;
+        top: 94px;
+    }
+    .lottery-games .container .lottery .item.dupla{
+        left: 0;
+        top: 188px;
+    }
+    .lottery-games .container .lottery .item.mania{
+        left: 50%;
+        top: 188px;
+    }
+    .lottery-games .container .lottery .item.loteca{
+        left: 0;
+        top: 282px;
+    }
+    .lottery-games .container .lottery .item.lotogol{
+        left: 50%;
+        top: 282px;
+        border-bottom: 1px solid #ebebeb;
+    }
+    .lottery-games .container .lottery .item.federal{
+        left: 0;
+        top: 376px;
+    }
+}
+
+@media only screen and (max-width: 375px){
+    .current-balance p{
+        font-size: 1.2em;
+    }
+}
